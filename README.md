@@ -1,10 +1,22 @@
 # FILE-INTEGRITY-CHECKER
-*COMPANY*: CODTECH IT SOLUTIONS
-*NAME*: ALOK KUMAR JAISWAL
-*INTERN ID* : CTIS9023
-*DOMAIN*: CYBER SECURITY AND ETHICAL HACKING
-*DURATION*: 6 WEEK
-*MENTOR*: NEELA SANTOSH KUMAR 
+
+## COMPANY
+CODTECH IT SOLUTIONS
+
+## NAME
+ALOK KUMAR JAISWAL
+
+## INTERN ID
+CTIS9023
+
+## DOMAIN
+CYBER SECURITY AND ETHICAL HACKING
+
+## DURATION
+6 WEEK
+
+## MENTOR
+NEELA SANTOSH KUMAR
 
 ## Overview
 The File Integrity Checker is a Python-based cybersecurity tool developed to monitor and verify the integrity of files using cryptographic hash functions. The tool detects unauthorized modifications in files by generating and comparing hash values.
